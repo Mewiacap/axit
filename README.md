@@ -1,1 +1,1 @@
-# https://mewiacap.github.io/axit/
+https://mewiacap.github.io/axit/
